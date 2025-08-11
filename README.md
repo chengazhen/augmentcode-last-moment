@@ -1,5 +1,8 @@
 # AugmentMagic 配置指南
 
+# 重要提示
+为了保证文档同步，请参考最新文档 https://codercheng.notion.site/augment
+
 # 配置指南
 
 > 🔒 安全提示：本方案经过验证，正确配置后不会导致账号封禁；遇到问题先看下方的常见问题
